@@ -4,6 +4,7 @@ An AVL Tree that stores 8-digit UF ID numbers
 ### How it Works
 
 1st line should be the amount of lines that you are typing in
+
 The rest of the commands are as follows:
 * insert (insert "John" 12345678)
 - Names must contain only letters and spaces
