@@ -7,8 +7,8 @@ An AVL Tree that stores 8-digit UF ID numbers
 
 The rest of the commands are as follows:
 * insert (insert "John" 12345678)
-- Names must contain only letters and spaces
-- UFID must be 8 digits long
+  - Names must contain only letters and spaces
+  - UFID must be 8 digits long
 * printInorder (prints inorder traversal of tree)
 * printPostorder (prints postorder traversal of tree)
 * printPreorder (prints preorder traversal of tree)
